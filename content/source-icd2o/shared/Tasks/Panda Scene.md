@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.1
   - A1.2
@@ -14,9 +12,11 @@ tags:
   - C2.6
   - C2.7
 ---
-# Panda Scene
+
 ## Objective
+
 Create a scene that includes a passable reproduction of a panda (or other animal) to refresh your understanding of why *sequence* – order of statements – matters when writing code.
+
 ## What you'll need to begin
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
 - [ ] Another copy of the [[Subscribe to Turtle Sketches|Sketches Template added to your list of playgrounds]], renamed to be titled *Panda Scene*

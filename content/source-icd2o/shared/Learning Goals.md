@@ -1,7 +1,6 @@
 ---
 excludeFromExplorer: true
 ---
-# Learning Goals
 
 For all learning goals below, we will engage in further discussion.
 

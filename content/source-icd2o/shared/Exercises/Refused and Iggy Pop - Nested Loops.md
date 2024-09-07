@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.1
   - A1.2
@@ -11,7 +9,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Refused & Iggy Pop - Nested Loops
 
 We have already seen how a loop can be used to *iterate* over a block of code to create a repeated pattern.
 

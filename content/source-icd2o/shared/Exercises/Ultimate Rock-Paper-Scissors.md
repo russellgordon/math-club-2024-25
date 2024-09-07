@@ -1,12 +1,9 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: false
+created: 2024-09-06T00:00:00.000-0400
 tags:
   - C1.1
 ---
-# Ultimate Rock-Paper-Scissors
-
 ## Gameplay
 
 We broke into pairs and played [Rock-Paper-Scissors](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/).

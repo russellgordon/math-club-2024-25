@@ -1,12 +1,8 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C3.3
 ---
-# Introduction to Functions
-
 Once a person has learned to tie their shoelaces, they stop consciously thinking about the individual steps involved.
 
 If someone asks them to tie their shoelaces, the person can do just that.

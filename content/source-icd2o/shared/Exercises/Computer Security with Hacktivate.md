@@ -1,15 +1,11 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - B3.1
   - C1.3
   - C2.2
   - C3.3
 ---
-# Computer Security with Hacktivate
-
 ## Introduction
 
 [Hacktivate](https://www.hacktivate.io) is a website authored by Paul Hudson, a software developer and teacher based in the United Kingdom.

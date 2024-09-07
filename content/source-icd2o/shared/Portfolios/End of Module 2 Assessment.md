@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
 ---
-# End of Module 2 Assessment
 
 ## Purpose
 

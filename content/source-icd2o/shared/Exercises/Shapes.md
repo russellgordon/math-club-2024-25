@@ -1,13 +1,10 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C1.1
   - C2.4
   - C2.6
 ---
-# Shapes
 
 ## Objective
 Draw a regular triangle, a square, and a regular pentagon in a sketch.

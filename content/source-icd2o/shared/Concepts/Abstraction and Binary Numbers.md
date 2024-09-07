@@ -1,12 +1,8 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags: 
   - C1.3
 ---
-# Abstraction and Binary Numbers
-
 Quick, what number is this?
 
 $$101$$

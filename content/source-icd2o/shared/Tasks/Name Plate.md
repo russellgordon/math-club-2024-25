@@ -1,16 +1,15 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C1.1
   - C2.4
   - C2.6
 ---
-# Name Plate
+
 ## Objective
 
 Draw the letters of your name in stick letters, using a hand-drawn plan to help get you started.
+
 ## What you'll need to begin
 
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer

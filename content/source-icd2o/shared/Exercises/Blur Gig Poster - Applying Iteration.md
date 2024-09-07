@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.1
   - A1.2
@@ -11,8 +9,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Blur Gig Poster – Applying Iteration
-
 A "gig" is an occasion where a band or singer performs for an audience.
 
 If you are a solo vocalist, or a member of a band, and you have a gig – you naturally want people to *attend* that performance.

@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.1
   - A1.2
@@ -12,7 +10,6 @@ tags:
   - C2.7
   - C3.3
 ---
-# Superdrag 
 
 Reproduce the following gig poster:
 

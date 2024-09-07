@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C1.1
   - A1.1
@@ -12,7 +10,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Ramones
 
 ## A possible sequence of steps
 

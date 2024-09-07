@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.1
   - A1.2
@@ -20,7 +18,6 @@ tags:
   - C3.3
   - C3.4
 ---
-# Creative Alice World
 
 ## Objective
 Write an Alice world that tells a story that has meaning to you, or, make a small game in Alice that involves movement using a [[First Person Perspective, Proximity, and Scoring|first-person perspective]].

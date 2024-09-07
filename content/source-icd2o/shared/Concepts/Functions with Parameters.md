@@ -1,12 +1,10 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C3.3
 ---
 
-Intro paragraph
+==Intro paragraph – add something here==
 
 ## First heading
 

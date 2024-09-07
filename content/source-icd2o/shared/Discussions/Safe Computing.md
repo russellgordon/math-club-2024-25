@@ -1,14 +1,10 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A2.2
   - B3.1
   - B3.2
 ---
-# Safe Computing
-
 What does it mean to use a computer safely while online?
 
 Read more about [safe computing here](https://www.russellgordon.ca/lcs/2023-24/icd2o/safe-computing.pdf) to understand this important topic.

@@ -1,11 +1,8 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C2.7
 ---
-# Shapes Code Review
 
 In this activity, we reviewed the code authored by another student for the [[Shapes]] activity from a previous class.
 

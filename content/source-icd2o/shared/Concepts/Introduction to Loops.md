@@ -1,12 +1,8 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C2.4
 ---
-# Introduction to Loops
-
 If we wanted someone to walk 5 steps toward us, it's easier to say just that – rather than say:
 
 - walk 1 step

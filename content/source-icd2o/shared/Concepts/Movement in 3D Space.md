@@ -1,15 +1,10 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C1.1
   - C1.2
   - C2.4
 ---
-
-# Movement in 3D Space
-
 ## Introduction
 
 Before you keep reading, have a look at this [overview of camera movements](https://www.youtube.com/watch?v=GbnYBmqBbKA) from movies and television.

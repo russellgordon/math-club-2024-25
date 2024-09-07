@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - A1.1
   - A1.2
@@ -17,7 +15,6 @@ tags:
   - C3.2
   - C3.3
 ---
-# Heartbreakers and The Pixies - Selection Statements
 
 Recently we have seen how *nested loops* – a loop inside of another loop – can be used to create a grid of shapes.
 

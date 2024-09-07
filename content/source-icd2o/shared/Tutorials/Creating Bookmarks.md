@@ -1,11 +1,9 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - B1.3
 ---
-# Creating Bookmarks
+
 ## Make a bookmark
 
 You will be using Notion in every class, and sometimes during Evening Study, to add to your portfolio.

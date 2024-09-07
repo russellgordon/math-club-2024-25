@@ -1,11 +1,8 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C2.7
 ---
-# Well Formatted Code
 
 Code should be written so that it is easily read by humans.
 

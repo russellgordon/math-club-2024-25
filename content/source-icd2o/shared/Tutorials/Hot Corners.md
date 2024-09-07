@@ -1,11 +1,8 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - B2.3
 ---
-# Hot corners
 
 ## Why use hot corners?
 

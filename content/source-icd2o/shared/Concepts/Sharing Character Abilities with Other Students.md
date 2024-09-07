@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C3.1
   - C3.2
@@ -9,9 +7,6 @@ tags:
   - C3.4
   - C3.5
 ---
-
-# Sharing Character Abilities with Other Students
-
 ## Classes 
 
 In Alice, a **class** can be thought of like a blueprint.

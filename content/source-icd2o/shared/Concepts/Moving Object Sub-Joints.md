@@ -1,15 +1,10 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C1.1
   - C1.2
   - C1.4
 ---
-
-# Moving Object Sub-Joints
-
 ## Overview
 
 With your partner, please watch the following video made by the team that created Alice, which is a good introduction to how sub-joints work within both the scene editor and code editor of Alice:

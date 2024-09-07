@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 tags:
   - C1.4
   - C1.5
@@ -12,7 +10,6 @@ tags:
   - C2.6
   - C2.7
 ---
-# Introduction to Generative Art
 
 ## Objectives
 

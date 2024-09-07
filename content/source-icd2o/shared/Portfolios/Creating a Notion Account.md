@@ -1,10 +1,7 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+created: 2024-09-06T00:00:00.000-0400
 tags:
 ---
-# Introducing Notion
 
 ## What is Notion?
 
@@ -30,4 +27,4 @@ When you first log in to Notion, you will be in your personal *team space*.
 
 Switch to the **Lakefield Computer Studies Program** team space, which contains your portfolio page:
 
-![[Switching to the Lakefield CS Program Teamspace.gif]]
+![[Opening the Teamspace.gif]]

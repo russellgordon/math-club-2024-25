@@ -1,9 +1,6 @@
 ---
-dg-publish: true
-dg-home-link: true
-dg-show-toc: true
+draft: true
 ---
-# macOS Ventura
 
 To upgrade your computer to macOS Ventura, there are several key but relatively simple steps to follow. 
 
