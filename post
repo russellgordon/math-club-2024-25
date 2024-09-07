@@ -1,6 +1,10 @@
 #!/bin/zsh
 # ADAPTED FROM: https://rowannicholls.github.io/bash/intro/passing_arguments.html
 #
+# Set defaults
+#
+message="Syncing latest changes"
+#
 # Handle command line arguments passed
 #
 while [[ "$#" -gt 0 ]]
