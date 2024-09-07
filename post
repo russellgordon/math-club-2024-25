@@ -19,7 +19,7 @@ git add *
 #
 # Commit files
 #
-git commit -m "$message"
+git commit -m \"$message\"
 #
 # Push files to remote
 #

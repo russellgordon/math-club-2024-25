@@ -59,7 +59,7 @@ export const defaultListPageLayout: PageLayout = {
 		folderClickBehavior: "link", 
 		filterFn: (node) => {
 			// exclude files with a frontmatter key named "excludeFromExplorer"
-			if (node.file?.frontmatter?.excludeFromExplorer || node.name === "Media") {
+			if (node.file?.frontmatter?.excludeFromExplorer || node.name === "Media" || node.name === "Curriculum") {
 				return false
 			} else {
 				return true
