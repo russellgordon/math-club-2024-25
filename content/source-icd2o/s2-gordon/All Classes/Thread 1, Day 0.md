@@ -9,4 +9,4 @@ tags:
 	
 ## Things to do before our next class
 
-*No to-do items before our next class. See you in October! 🍂🍁*
+*No to-do items before our next class. See you in October! 🍂*
