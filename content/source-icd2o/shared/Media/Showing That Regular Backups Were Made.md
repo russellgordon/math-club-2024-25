@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-dg-home-link: false
-dg-show-toc: true
+draft: true
 tags:
 ---
 # Showing That Regular Backups Were Made
