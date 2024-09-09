@@ -1,5 +1,6 @@
 ---
 draft: true
+draftSectionTwo: true
 tags:
 ---
 ## A profile of one graduate

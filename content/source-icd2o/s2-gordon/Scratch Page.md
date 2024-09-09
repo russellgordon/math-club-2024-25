@@ -1,6 +1,7 @@
 ---
 excludeFromExplorer: true
 draft: true
+draftSectionTwo: true
 ---
 
 This page is a place to place text or other bits of information in, temporarily.

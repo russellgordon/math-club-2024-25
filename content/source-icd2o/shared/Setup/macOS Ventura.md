@@ -1,5 +1,6 @@
 ---
 draft: true
+draftSectionTwo: true
 ---
 
 To upgrade your computer to macOS Ventura, there are several key but relatively simple steps to follow. 

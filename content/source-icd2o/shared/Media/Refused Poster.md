@@ -1,5 +1,6 @@
 ---
 draft: true
+draftSectionTwo: true
 tags:
 ---
 # Refused Poster

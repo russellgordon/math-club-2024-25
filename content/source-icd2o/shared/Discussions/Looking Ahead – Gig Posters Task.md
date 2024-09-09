@@ -1,5 +1,6 @@
 ---
 draft: true
+draftSectionTwo: true
 tags:
 ---
 Here are a few examples of what students authored in this module of the course last year:
