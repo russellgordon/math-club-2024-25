@@ -1,5 +1,7 @@
 ---
 excludeFromExplorer: true
+enableToc: false
+excludeBacklinks: true
 ---
 
 For all learning goals below, we will engage in further discussion.
