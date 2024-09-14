@@ -1,4 +1,5 @@
 ---
+transcludeTitleSize: h2
 draft: false
 draftSectionTwo: false
 enableToc: false
