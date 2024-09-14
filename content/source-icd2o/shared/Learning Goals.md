@@ -2,6 +2,8 @@
 excludeFromExplorer: true
 enableToc: false
 excludeBacklinks: true
+created: 2024-09-06T00:00:00.000-0400
+createdForSectionTwo: 2024-09-06T00:00:00.000-0400
 ---
 
 For all learning goals below, we will engage in further discussion.
