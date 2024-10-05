@@ -6,7 +6,7 @@ enableToc: false
 excludeBacklinks: true
 createdForSectionTwo: 2024-10-07T00:00:00.000-0400
 tags:
-notes: One teacher stays with students in class to assist with setup of playgrounds and subscriptions to the turtle sketches playground. The other teacher takes students out to do the "tying a shoelace" and "drawing an M" activity (Parsing instructions). After that part is done, be on hand to help students with remaining tutorials and software setup.
+notes: Remember to set up Notion pages for each student prior to this first class. In this class, one teacher stays with students in class to assist with setup of playgrounds and subscriptions to the turtle sketches playground. The other teacher takes students out to do the "tying a shoelace" and "drawing an M" activity (Parsing instructions). After that part is done, be on hand to help students with remaining tutorials and software setup.
 ---
 ## Agenda
 1. Portfolio: [[Creating a Notion Account]]
