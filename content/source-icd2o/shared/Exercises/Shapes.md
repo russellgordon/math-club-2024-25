@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-09-18T00:00:00.000-0400
+createdForSectionTwo: 2024-10-10T00:00:00.000-0400
 tags:
   - C1.1
   - C2.4
@@ -16,7 +18,7 @@ Separate shapes so that there is some space between them, like this:
 ## What you'll need to begin
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
 - [ ] The [[Subscribe to Turtle Sketches|Sketches Template added to your list of playgrounds]], renamed to be titled *Shapes*
-- [ ] A partner to engage in the *Driver-Navigator* paired programming model.
+- [ ] A partner to engage in the [[Driver-Navigator Pattern|Driver-Navigator]] pair programming model.
 
 ## Success criteria
 - [ ] a regular triangle, square, and pentagon are drawn, separated by some empty space

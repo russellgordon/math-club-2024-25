@@ -6,6 +6,46 @@ draftSectionTwo: true
 
 This page is a place to place text or other bits of information in, temporarily.
 
+3. Exercise: [[Introduction to Generative Art]]
+	- Use any time that remains to begin working on this task.
+
+
+
+## Playground with goToHome function
+
+https://www.russellgordon.ca/lcs/icd2o/GoingHomeAgainComplete.playgroundbook.zip
+
+```swift
+// Make the turtle return to the origin
+func goHome() {
+    
+    // Pick up the pen so a trail is not left behind
+    turtle.penUp()
+    
+    // Get the turtle's current position
+    let x = turtle.currentPosition().x
+    let y = turtle.currentPosition().y
+
+    // Go home, using the opposite value of turtle's position
+    turtle.diagonal(dx: x * -1, dy: y * -1)
+    
+    // Put down the pen again
+    turtle.penDown()
+}
+
+```
+
+
+## Agenda
+1. Tutorial: Taking Screenshots 🫥⬅️
+5. 
+6. Concept: [[Functions with Parameters]] 🫥⬅️
+7. Tutorial: [[Syncing Files from Cloud Storage]]
+8. Tutorial: [[Creating Bookmarks]] 
+9. Tutorial: [[Hot Corners]]
+10. Exercise: [[Keyboard Shortcuts]]
+2. Discussion: Ethics 🫥⬅️
+
 ## SIC Drop-In Sessions
 
 Here is this week's schedule:

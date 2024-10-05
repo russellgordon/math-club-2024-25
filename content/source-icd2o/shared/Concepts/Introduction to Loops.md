@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-09-18T00:00:00.000-0400
+createdForSectionTwo: 2024-10-10T00:00:00.000-0400
 tags:
   - C2.4
 ---
@@ -15,13 +17,13 @@ If we wanted someone to walk 5 steps toward us, it's easier to say just that –
 In the same way, we can use a loop to have a computer repeat an instruction – or a block of multiple instructions – more than once.
 ## Creating a loop
 
-To make a function in Swift Playgrounds, just begin typing the keyword `for`, and then press the **Return** key to use autocomplete:
+To make a loop in Swift Playgrounds, just begin typing the keyword `for`, and then press the **Return** key to use autocomplete:
 
-![[Screenshot 2023-09-21 at 1.15.51 PM.png]]
+![[Pasted image 20240918071834.png]]
 
-You will then have a template for a function that you can fill in:
+You will then have a template for a loop that you can fill in:
 
-![[Screenshot 2023-09-21 at 1.16.18 PM.png]]
+![[Pasted image 20240918071959.png]]
 
 First, fill in the *number*.
 
@@ -29,7 +31,7 @@ That describes how many times you want the block of code to run.
 
 Let's choose 5:
 
-![[Screenshot 2023-09-21 at 1.17.19 PM.png]]
+![[Pasted image 20240918072026.png]]
 
 Next, copy the code shown here below into the body of the loop:
 
@@ -42,16 +44,24 @@ turtle.forward(distance: 50)
 
 ... replacing the placeholder:
 
-![[Screenshot 2023-09-21 at 1.19.00 PM.png]]
+![[Pasted image 20240918072041.png]]
 
 ... with the code:
 
-![[Screenshot 2023-09-21 at 1.19.13 PM.png]]
+![[Pasted image 20240918072059.png]]
 
 The opening `{` marks the start of the code block that will be repeated.
 
 The closing `}` marks the end of the code block that will be repeated.
 
-If you press **Command-Shift-R** to step through the code in the playground, you will see how the loop repeats the code:
+You can step through your code to see exactly how the loop repeats the block of instructions:
 
-![[Loop Example.gif]]
+<div style="padding:56.25% 0 0 0;position:relative;">
+	<iframe src="https://player.vimeo.com/video/1010565533?h=b9ab9ef479&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&portrait=0&byline=0&title=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Opening the Teamspace">
+	</iframe>
+	</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+> [!NOTE]
+> 
+> Watch the video a second time. Notice how Playgrounds tells you how often a line of code has been run within a loop – 1x for once, 2x for twice, and so on.

@@ -4,13 +4,14 @@ draft: true
 draftSectionTwo: true
 enableToc: false
 excludeBacklinks: true
-createdForSectionTwo: 2024-10-28T00:00:00.000-0400
+createdForSectionTwo: 2024-10-31T00:00:00.000-0400
 tags:
 ---
 ## Agenda
 1. Task: [[T-Shirt Shadow Prints]]
-	- Any students who did not finish their shirt yesterday will do so today.
-1. Exercise: [[Computer Security with Hacktivate]]
-	- While you wait to make your shirt, work on these exercises with your partner.
+	- Students will take turns making their shirts today.
+1. Portfolio: [[Thread 1 Self-Assessment]]
+	- When you are not making your shirt, complete this self-assessment and make an estimate for your numeric grade for this module of the course.
+	- Mr. Gordon will review your entry prior to our next class, and check in with in person tomorrow, if needed, to discuss further.
 ## Things to do before our next class
-- [ ] Share evidence of what you completed today in your portfolio [on Notion](https://notion.so).
+- [ ] Finish your [[Thread 1 Self-Assessment]].

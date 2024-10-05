@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-09-26T00:00:00.000-0400
+createdForSectionTwo: 2024-10-25T00:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -22,7 +24,7 @@ Create a design that when inverted, will look appealing when [printed with sunli
 
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
 - [ ] Another copy of the [[Subscribe to Turtle Sketches|Sketches Template added to your list of playgrounds]], renamed to be titled *T-Shirt Shadow Print*
-- [ ] Your black, hardcover, graph paper notebook
+- [ ] Graph paper
 - [ ] Writing instruments, including a ruler or straight edge
 - [ ] An image to reproduce; possibilities include:
 	- [famous landmarks line art](https://duckduckgo.com/?q=famous+landmarks+line+art)
@@ -68,14 +70,14 @@ In order to return completed T-shirts to you before the Thanksgiving Long Weeken
 - Thursday October 3
 
 > [!IMPORTANT]
-> That means everyone should aim to complete their [[#Reflection prompts|final portfolio entry for the task]] by Tuesday October 1 at 10 PM, so that Mr. Jones has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 
+> That means everyone must complete their [[#Reflection prompts|final portfolio entry for this task]] by Tuesday October 1 at 10 PM, so that Mr. Jones has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 
 
 ### Section 2: Mr. Gordon's class
 
 In order to return completed T-shirts to you before the November Long Weekend, we will need to be transferring prints on the following dates:
 
-- Wednesday October 30
 - Thursday October 31
+- Friday November 1
 
 > [!IMPORTANT]
-> That means everyone should aim to complete their [[#Reflection prompts|final portfolio entry for the task]] by Tuesday October 29 at 10 PM, so that Mr. Gordon has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 
+> That means everyone must complete their [[#Reflection prompts|final portfolio entry for this task]] by Wednesday October 30 at 10 PM, so that Mr. Gordon has time to create transparencies of your images so that you can make your shirts. This is a hard deadline, please – no exceptions. 

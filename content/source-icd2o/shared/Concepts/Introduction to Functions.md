@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-09-18T00:00:00.000-0400
+createdForSectionTwo: 2024-10-10T00:00:00.000-0400
 tags:
   - C3.3
 ---
@@ -9,19 +11,20 @@ Once a person has learned to tie their shoelaces, they stop consciously thinking
 If someone asks them to tie their shoelaces, the person can do just that.
 
 In the same way, once we have worked out the individual steps of a task, we can teach the computer how to carry them out with a single command.
+
 ## Defining a function
 
 To define a function in Swift Playgrounds, just begin typing the keyword `func`, and then press the **Return** key to use autocomplete:
 
-![[Screenshot 2023-09-21 at 12.56.47 PM.png]]
+![[Pasted image 20240918073107.png]]
 
 You will then have a template for a function that you can fill in:
 
-![[Screenshot 2023-09-21 at 12.58.34 PM.png]]
+![[Pasted image 20240918073150.png]]
 
 First, fill in the name. Let's call this function **star**:
 
-![[Screenshot 2023-09-21 at 12.59.03 PM.png]]
+![[Pasted image 20240918073210.png]]
 
 Next, copy the code shown here below into the body of the function:
 
@@ -49,11 +52,11 @@ for i in 1 ... 5 {
 
 ... replacing the placeholder:
 
-![[Screenshot 2023-09-21 at 1.04.59 PM.png]]
+![[Pasted image 20240918073218.png]]
 
 ... with the code:
 
-![[Screenshot 2023-09-21 at 1.10.13 PM.png]]
+![[Pasted image 20240918073250.png]]
 
 This defines the function – it "teaches" the computer how to draw a star.
 
@@ -67,17 +70,21 @@ To use the function we need to type it's name.
 
 Start typing the name of the function – you will see that it is recognized by the autocomplete system:
 
-![[Screenshot 2023-09-21 at 1.11.57 PM.png]]
+![[Screenshot 2024-09-18 at 7.34.45 AM.png]]
 
 Press **Return** to use autocomplete, and then **Command-R** to run the playground:
 
-![[Screenshot 2023-09-21 at 1.12.26 PM.png]]
+![[Pasted image 20240918073519.png]]
 
 Now, since we have used, or *invoked* the function, we see a star drawn on the screen.
 
 ## Exercise
 
-Make a playground that uses the `star` function and a loop to draw many stars throughout the available space in a playground's canvas.
+Make a playground that uses the `star` function and a loop to draw many stars within the playground's canvas.
 
 > [!NOTE]
 > This exercise assumes that you have completed the steps described in [[Introduction to Loops]].
+
+Here is one example – see if you could create even more stars!
+
+![[Screenshot 2024-09-18 at 7.44.19 AM.png]]

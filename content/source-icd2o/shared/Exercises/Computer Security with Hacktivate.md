@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-10-02T00:00:00.000-0400
+createdForSectionTwo: 2024-10-30T00:00:00.000-0400
 tags:
   - B3.1
   - C1.3
@@ -17,9 +19,11 @@ Paul created Hacktivate to help his daughter and her friends prepare for cyberse
 
 ## What to do
 
-You have been emailed login instructions.
+- [ ] Visit [Hacktivate to join](https://www.hacktivate.io/join)
+	- [ ] Enter the invite code **subtle-toucan-oatmeal-paddleboarding**
+	- [ ] Enter the invite password **10637**
 
-Working with your partner, watch the videos together.
+You can choose to form a team with a friend in class, or, work alone.
 
 As you complete each challenge, take note of *terminology* or *concepts* that are new to you.
 
@@ -27,7 +31,7 @@ Write very briefly about that in your daily portfolio entry in [Notion](https://
 
 Do your best to complete challenges during our classes this week.
 
-You *are* expected to complete a portfolio entry in Notion for each day of class, but you are *not* being directly evaluated on what you complete in Hacktivate.
+You *are* expected to complete a portfolio entry in Notion for each day of class, but you are *not* being directly evaluated on the specifics of what you complete in Hacktivate.
 
 There *is* a leaderboard for the teams in our class – who will come out on top? Perhaps it will be you and your partner!
 

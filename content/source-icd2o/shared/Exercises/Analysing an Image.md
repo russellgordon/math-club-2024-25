@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-09-19T00:00:00.000-0400
+createdForSectionTwo: 2024-10-18T00:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -28,7 +30,7 @@ In this activity, you will work with a partner to:
 ## What you'll need to begin
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
 - [ ] The [[Subscribe to Turtle Sketches|Sketches Template added to your list of playgrounds]], renamed to be titled *Image Analysis*
-- [ ]  A partner to engage in the *Driver-Navigator* paired programming model.
+- [ ]  A partner to engage in the [[Driver-Navigator Pattern|Driver-Navigator]] paired programming model.
 ## Success criteria
 - [ ] your plan identifies simple repeated elements were loops can be used
 - [ ] your plan identifies more complex repeated elements where functions might be used

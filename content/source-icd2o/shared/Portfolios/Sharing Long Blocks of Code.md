@@ -1,6 +1,7 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-09-19T00:00:00.000-0400
 tags:
 ---
 
@@ -8,9 +9,13 @@ tags:
 
 Trying to share code with multiple screenshots takes time.
 
-In some cases, you might want Mr. Gordon to try out your code, which is not possible when sharing screenshots.
+In some cases, you might want your teacher to try out your code, which is not possible when sharing screenshots.
 
-Making a code block in Notion is faster for you to author, and it makes it possible for Mr. Gordon to copy and then try out your code, if necessary.
+Making a code block in Notion:
+
+- is faster for you to author
+- makes it possible for Mr. Jones or Mr. Gordon to try out your code
+- makes it possible for Mr. Jones or Mr. Gordon to comment on specific lines of code to provide you with feedback
 
 ## Create a code block
 

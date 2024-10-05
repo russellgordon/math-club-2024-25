@@ -9,10 +9,9 @@ tags:
 ---
 ## Agenda
 1. Task: [[T-Shirt Shadow Prints]]
-	- This is the final day to author code to complete your shirt.
-	- ==Be sure to [[T-Shirt Shadow Prints#Due date|complete and hand in by 10 PM]].==
-1. Exercise: [[Computer Security with Hacktivate]]
-	- As you finish up your T-shirt Shadow print, begin working through Hacktivate activities.
+	> [!TIP]
+	> 
+	> If you finish early, here is [[T-Shirt Shadow Prints#Reflection prompts|how to hand in your work]].
 ## Things to do before our next class
-- [ ] Complete your shadow prints task.
+- [ ] Make significant progress on your shadow prints task.
 - [ ] Share evidence of your progress in your portfolio [on Notion](https://notion.so).
