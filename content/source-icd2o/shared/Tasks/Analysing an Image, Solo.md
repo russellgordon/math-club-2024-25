@@ -42,7 +42,7 @@ In this activity, you will work alone to:
 
 ## Image
 
-You have selected an image to reproduce, after consultation with Mr. Jones. This was provided to you as a hardcopy printout.
+You have selected an image to reproduce, after consultation with Mr. Jones or Mr. Gordon. This was provided to you as a hardcopy printout.
 
 ## Reflection prompts
 

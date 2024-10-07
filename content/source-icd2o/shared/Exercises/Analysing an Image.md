@@ -13,6 +13,7 @@ tags:
   - C2.2
   - C2.4
   - C2.6
+notes: Remember to print files before this activity. See ICD2O/Thread 1/Image Analysis.
 ---
 
 ## Objective

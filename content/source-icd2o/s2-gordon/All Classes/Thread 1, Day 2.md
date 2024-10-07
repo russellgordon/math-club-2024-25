@@ -12,6 +12,7 @@ notes: Really need to emphasize making a plan before coding for the Name Plate t
 1. Portfolio: [[Sharing Evidence]]
 	- After we discuss this in class, please take time to make a portfolio entry for [[Thread 1, Day 1|Day 1]].
 	- Including screenshots showing that you completed the setup steps and tutorials from [[Thread 1, Day 1|Day 1]].
+1. Concept: [[Diagonal Turtle Movements]]
 1. Task: [[Name Plate]]
 
 ## Things to do before our next class

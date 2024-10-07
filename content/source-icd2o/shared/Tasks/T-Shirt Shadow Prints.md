@@ -20,6 +20,15 @@ tags:
 ## Objective
 
 Create a design that when inverted, will look appealing when [printed with sunlight-activated dye on a T-shirt](https://www.instructables.com/How-Not-to-Create-Lumi-Inkodye-Tee-Shirts/).
+
+Here are some photographs of what this looks like:
+
+![[65AA6B68-71F0-413A-8D1A-D9424AAEFCB6_1_105_c.png]]
+
+![[2.jpeg]]
+
+![[3.jpeg]]
+
 ## What you'll need to begin
 
 - [ ] The [[Installing Playgrounds|Playgrounds app]] installed on your computer
@@ -59,8 +68,6 @@ When you have finished the code for this task, please complete the **Coding Task
 3. It is normal for a program's final output to sometimes vary from the original plan. Was that true in your case? If so, in what ways?
 
 ## Due date
-
-![[65AA6B68-71F0-413A-8D1A-D9424AAEFCB6_1_105_c.png]]
 
 ### Section 1: Mr. Jones' class
 
