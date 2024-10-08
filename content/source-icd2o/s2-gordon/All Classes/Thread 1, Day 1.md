@@ -12,7 +12,7 @@ notes: Remember to set up Notion pages for each student prior to this first clas
 1. Tutorial: [[Creating Bookmarks]]
 1. Portfolio: [[Creating a Notion Account]]
 1. Portfolio: [[First Entry]]
-2. Activity: Parsing Instructions
+2. Activity: [[Parsing Instructions]]
 5. Setup: [[Installing Playgrounds]]
 6. Setup: [[Subscribe to Turtle Sketches]]
 7. Tutorial: [[Taking Screenshots]]
