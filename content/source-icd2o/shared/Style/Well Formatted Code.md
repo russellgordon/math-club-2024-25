@@ -1,7 +1,8 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-09-16T00:00:00.000-0400
+createdForSectionTwo: 2024-10-09T00:00:00.000-0400
 tags:
   - C2.7
 ---
