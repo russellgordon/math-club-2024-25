@@ -44,6 +44,17 @@ In this activity, you will work alone to:
 
 You have selected an image to reproduce, after consultation with Mr. Jones or Mr. Gordon. This was provided to you as a hardcopy printout.
 
+For obtaining colours using a `#colorLiteral(`, here are links to the various images provided:
+
+- [[Loops and Functions - Analysis.pdf|Loops and Functions - Analysis]]
+- [[Loops and Functions - Analysis 2.pdf|Loops and Functions - Analysis 2]]
+- [[Loops and Functions - Analysis 3.pdf|Loops and Functions - Analysis 3]]
+- [[Loops and Functions - Analysis 4.pdf|Loops and Functions - Analysis 4]]
+- [[Loops and Functions - Analysis 5.pdf|Loops and Functions - Analysis 5]]
+- [[Loops and Functions - Analysis 6.pdf|Loops and Functions - Analysis 6]]
+- [[Loops and Functions - Analysis 7.pdf|Loops and Functions - Analysis 7]]
+- [[Loops and Functions - Analysis 8.pdf|Loops and Functions - Analysis 8]]
+
 ## Reflection prompts
 
 1. What problems did you encounter when completing this task? How did you resolve them?
