@@ -8,7 +8,8 @@ createdForSectionTwo: 2024-10-19T00:00:00.000-0400
 tags:
 ---
 ## Agenda
-1. Task: [[Analysing an Image, Solo]]
+1. Concept: [[Rubber Duck Debugging]]
+2. Task: [[Analysing an Image, Solo]]
 	- Work on your own, for the most part, to [[Analysing an Image, Solo#Success criteria|analyse and reproduce an image]] of your choice.
 
 ## Things to do before our next class

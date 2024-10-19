@@ -9,7 +9,6 @@ tags:
 notes: Remember to add the 'Coding Task - Final Entry' template to each student's portfolio on Notion before this class. After the Going Home Again exercise, add the link to the example code.
 ---
 ## Agenda
-1. Concept: [[Rubber Duck Debugging]]
 1. Exercise: [[Going Home Again]]
 2. Tutorial: Separating Elements of a Drawing
 3. Task: [[T-Shirt Shadow Prints]]
