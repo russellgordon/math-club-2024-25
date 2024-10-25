@@ -1,1 +1,40 @@
-/Users/russellgordon/Dropbox/ICD2O-S2-Website/quartz/content/source-icd2o/s2-gordon/Private Notes.md
+---
+excludeFromExplorer: true
+draft: true
+draftSectionTwo: true
+---
+
+# Mid Module Portfolio Review
+
+## Audrey 
+
+ME
+
+## Shiyi
+
+ME
+
+## Chloe
+
+ME
+
+## Vitalina
+
+ME
+
+## Sadie
+
+ME
+
+## Jimin
+
+ME
+
+## Janelle
+
+ME
+
+## Samson
+
+ME
+
