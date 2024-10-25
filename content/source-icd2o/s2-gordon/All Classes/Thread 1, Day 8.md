@@ -10,7 +10,7 @@ notes: Remember to add the 'Coding Task - Final Entry' template to each student'
 ---
 ## Agenda
 1. Exercise: [[Going Home Again]]
-2. Tutorial: Separating Elements of a Drawing
+2. Tutorial: [[Separating Elements of a Drawing]]
 3. Task: [[T-Shirt Shadow Prints]]
 ## Things to do before our next class
 - [ ] Complete the exercise and, at least, complete the plan for your shadow prints tasks.
