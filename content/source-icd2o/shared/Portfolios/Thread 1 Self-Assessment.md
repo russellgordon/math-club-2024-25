@@ -1,12 +1,12 @@
 ---
 draft: false
-draftSectionTwo: true
+draftSectionTwo: false
 created: 2024-10-01T00:00:00.000-0400
 createdForSectionTwo: 2024-10-31T00:00:00.000-0400
 tags:
 ---
 
-The end of the module is approaching, and your final task is to complete your self-assessment and propose a numeric grade, based on the evidence you have placed in your portfolio over the last three weeks.
+The end of the module is approaching, and your final task is to complete your self-assessment and propose a numeric grade, based on the evidence you have placed in your portfolio over the last three to four weeks.
 
 ## Create your entry
 
