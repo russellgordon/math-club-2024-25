@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-11-22T07:00:00.000-0400
+createdForSectionTwo: 2024-11-22T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -120,10 +122,10 @@ When you have finished the code for this task, please complete the **Coding Task
 
 ## Due date
 
-You must add all required elements described above in to your portfolio *prior* to leaving for the Winter Break. No exceptions – please, plan ahead – everything will take longer than you expect to finish. 
+You must add all required elements described above in to your portfolio *prior* by the end of our final period on Friday, November 29, 2024.
 
-> [!IMPORTANT]
-> Mr. Gordon's holiday actually starts when he has evaluated your portfolio and written  your next report card comment for this course while this module is fresh in his memory. He will not chase you to hand in missing work but will simply evaluate what is present in your portfolio when the Winter Break begins.
+No exceptions – please, plan ahead – everything will take longer than you expect to finish. 
+
 ## Learning goals
 
 Successful completion of this task is great evidence of mastery for learning goals 1, 4, 5, and 6.

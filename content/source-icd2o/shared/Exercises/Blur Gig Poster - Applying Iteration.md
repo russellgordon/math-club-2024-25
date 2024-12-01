@@ -1,6 +1,9 @@
 ---
-draft: true
-draftSectionTwo: true
+draft: false
+draftSectionTwo: false
+created: 2024-11-12T07:00:00.000-0400
+createdForSectionTwo: 2024-12-03T07:00:00.000-0400
+notes: Need to print enough copies of the planning sheet for partners to analyse the poster. See "Blur - Planning Sheet.pdf".
 tags:
   - A1.1
   - A1.2
@@ -82,6 +85,12 @@ The first quadrant of every gig poster will be 400 pixels wide by 600 pixels hig
 
 ![[Screen Shot 2022-12-08 at 3.38.12 PM.png]]
 
+> [!TIP]
+> 
+> To create the color well (allowing for colors to be selected from a flyout menu) begin typing `#colorLiteral(`.
+> 
+> As you type the opening bracket, `(`, the code will turn into a color well.
+
 ### Generate PDF output
 
 You may see that the grid does not completely fit within the height of your computer's screen.
@@ -97,7 +106,7 @@ turtle.renderDrawingToPDF()
 
 Here is how you can find the PDF after running your program:
 
-![[Generating PDF Output.gif]]
+![[Generating PDF Output.mp4]]
 
 > [!TIP]
 > Once you have found the PDF file, keep it open. When you re-run your code in Playgrounds, and then return to the PDF file, it's contents will be updated.
@@ -132,7 +141,7 @@ Instead, we should draw the rectangle for the background, then draw the axes.
 
 Make good use of keyboard shortcuts as you change the sequence of the code:
 
-![[Fixing the Sequence to Show Axes.gif]]
+![[Fixing the Sequence to Show Axes.mp4]]
 
 Now the axes are visible.
 
@@ -142,7 +151,7 @@ Using the color well and eyedropper tool, we can sample the correct color from t
 
 Arrange your Playgrounds window and this web page side by side, then sample the color like this:
 
-![[Using the Eyedropper Tool to Obtain a Color.gif]]
+![[Using the Eyedropper Tool to Obtain a Color.mp4]]
 
 Now the shade of blue is correct.
 
@@ -210,7 +219,7 @@ How to type that in is shown in the animation below. Some things to keep in mind
 3. the black text used for the title is transparent, with an opacity of about 10%
 4. the `kerning` parameter accepts positive or negative values as an argument; negative values draw letters closer together and positive values push letters in the text further apart from one another
 
-![[Adding a Loop Using Stride.gif]]
+![[Adding a Loop Using Stride.mp4]]
 
 We have made good progress!
 
@@ -266,11 +275,11 @@ All done! 🎉
 
 To take your final look, comment out the line of code that draws the axes using the `Command /` (command and forward slash) keyboard shortcut:
 
-![[Comment out a Block of Code.gif]]
+![[Comment out a Block of Code.mp4]]
 
 It's best to see your final product by looking at the PDF version:
 
-![[Viewing the Finished Product.gif]]
+![[Viewing the Finished Product.mp4]]
 
 ## Exercise: Sweating the details
 

@@ -1,9 +1,11 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
-tags:
+created: 2024-11-05T07:00:00.000-0400
+createdForSectionTwo: 2024-11-05T07:00:00.000-0400
+notes: The idea here is just to show students where we are heading in this module. Encourage them to review the posters on the wall outside room 36 (actually, can take a "mini field-trip" over there to take a look).
 ---
-Here are a few examples of what students authored in this module of the course last year:
+Here are a few examples of what students authored in this module of the course in the past:
 
 ![[a.png|500]]
 
@@ -11,7 +13,7 @@ Here are a few examples of what students authored in this module of the course l
 
 ![[c.png|500]]
 
-You can see the complete array of the products from last year on the wall outside our classroom.
+You can see the complete array of the products from last year on the wall outside room 36.
 
-Before the start the Winter Break in a few weeks, you will have made your own custom gig poster. 💫
+Before the end of November, you will have made your own custom gig poster. 💫
 

@@ -1,6 +1,9 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-11-13T07:00:00.000-0400
+createdForSectionTwo: 2024-11-05T07:00:00.000-0400
+notes: Need to print enough copies of the planning sheet for partners to analyse the poster. See "Ramones - Planning Sheet.pdf".
 tags:
   - C1.1
   - A1.1

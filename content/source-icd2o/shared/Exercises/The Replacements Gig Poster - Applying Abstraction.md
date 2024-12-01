@@ -1,6 +1,9 @@
 ---
-draft: true
-draftSectionTwo: true
+draft: false
+draftSectionTwo: false
+created: 2024-11-13T07:00:00.000-0400
+createdForSectionTwo: 2024-11-19T07:00:00.000-0400
+notes: Need to print enough copies of the planning sheet for partners to analyse the poster. See "The Replacements - Planning Sheet.pdf".
 tags:
   - A1.1
   - A1.2
@@ -166,9 +169,9 @@ This is straightforward to implement:
 
 If you look closely, however, you will see that the shade of red does not quite match what we see on the poster.
 
-So, use the color well and eyedropper tool to get the correct shade of red:
+So, type `#colorLiteral` to create a color well, then use the eyedropper tool to get the correct shade of red:
 
-![[Using the Eyedropper Tool to Get the Correct Shade of Red.gif]]
+![[Using the Eyedropper Tool to Get the Correct Shade of Red.mp4]]
 
 #### Draw the circle
 
@@ -198,7 +201,7 @@ To begin the process of abstraction – making the logic "general purpose" so th
 
 It's a good idea to keep functions at the top of your code. Note how keyboard shortcuts and autocomplete are used to avoid writing code manually:
 
-![[Defining the Function.gif]]
+![[Defining the Function.mp4]]
 
 If we run the playground using the `Command R` keyboard shortcut now, you will note that it seems we have lost our circle in square pattern:
 
@@ -217,7 +220,7 @@ circleInSquare()
 
 Here is an animation showing how to do that:
 
-![[Invoking the Function.gif]]
+![[Invoking the Function.mp4]]
 
 #### Add the first parameter
 
@@ -253,7 +256,7 @@ What this means is that we must *answer* by supplying an argument to the paramet
 
 Make this change to provide that answer:
 
-![[Supplying an Argument.gif]]
+![[Supplying an Argument.mp4]]
 
 Running the code afterward, we see that nothing changes yet. That's expected; we will fix this soon.
 
@@ -277,7 +280,7 @@ The function is now asking: "From what anchor point should I draw the shapes?"
 
 We must answer the question by supplying another argument. We know the square in this first instance of the pattern is anchored at it's bottom left corner, the point $(-400,-200)$. So, we will now supply the required argument:
 
-![[Adding a Second Parameter.gif]]
+![[Adding a Second Parameter.mp4]]
 
 Nothing very exciting is happening yet. We've done a lot of work and not seen any benefit! 😥
 
@@ -299,7 +302,7 @@ We want to draw the pattern again, this time in blue, and at the top right  corn
 
 Let's give this a shot – add the following code to invoke (or call) the function a second time: 
 
-![[Invoking the Function a Second Time.gif]]
+![[Invoking the Function a Second Time.mp4]]
 
 When we invoke the function a second time – supplying different arguments – nothing happens? 😤
 
@@ -313,11 +316,11 @@ The problem is – we are *not yet using the answers inside our function*.
 
 So, first – we will use the `color` parameter in the function – make these changes: 
 
-![[Using the Color Parameter.gif]]
+![[Using the Color Parameter.mp4]]
 
 After running our program, we see an improvement. A blue version of the pattern *is* drawn – but it is drawn in the wrong location. The blue version is drawn *over top of* the first version in red. We can see this clearly if we run the program, stepping slowly through the code:
 
-![[Stepping Through Replacements Function 1.gif]]
+![[Stepping Through Replacements Function 1.mp4]]
 
 To fix this, we must complete the process of abstraction for this function.
 
@@ -327,7 +330,7 @@ We must use the answer for *where to anchor the drawings from*.
 
 Make these changes to use the `anchor` parameter – the square will be drawn at the $x$ and $y$ values supplied by the arguments each time the function is invoked:
 
-![[Using the Anchor Parameter to Draw the Square.gif]]
+![[Using the Anchor Parameter to Draw the Square.mp4]]
 
 We have literally performed abstraction here – inside the function, we replaced the *concrete* co-ordinates of:
 
@@ -351,7 +354,7 @@ Before we make the changes in code, let's examine an even more detailed version 
 
 So if we make these edits:
 
-![[Using the Anchor Parameter to Draw the Circle.gif]]
+![[Using the Anchor Parameter to Draw the Circle.mp4]]
 
 ... we'll see the circles positioned correctly.
 

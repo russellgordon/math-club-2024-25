@@ -1,6 +1,8 @@
 ---
-draft: true
-draftSectionTwo: true
+draft: false
+draftSectionTwo: false
+created: 2024-11-08T07:00:00.000-0400
+createdForSectionTwo: 2024-12-02T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -25,7 +27,7 @@ Have the planning sheet you were given ready:
 
 With your partner, draw the design shown in this animation on your planning sheet:
 
-![[Animation - Curves from Lines.gif|500]]
+![[Animation - Curves from Lines.mp4|500]]
 
 ## Look for Patterns
 
@@ -95,7 +97,7 @@ We use `i` for the $x$ position of the `from` point and for the $y$ position of 
 
 The code above will produce the following result:
 
-![[Animation - Curves From Lines Illustrated.gif]]
+![[Animation - Curves From Lines Illustrated.mp4]]
 
 ## Exercises
 
@@ -108,7 +110,8 @@ The code above will produce the following result:
    ![[Screen Shot 2022-12-06 at 1.14.49 PM.png|400]]
    
    > [!HINT]
-   > It may be helpful to consider a *mathematical expression* involving addition, subtraction, multiplication, or division that would let you use the existing loop to draw the green lines.
+   > 
+   > It may be helpful to consider a _mathematical expression_ involving addition, subtraction, multiplication, or division that would let you use the existing loop to draw the green lines.
    
 3. Finally, make changes to your plan and code to express the final corner of lines, shown here in purple:
    

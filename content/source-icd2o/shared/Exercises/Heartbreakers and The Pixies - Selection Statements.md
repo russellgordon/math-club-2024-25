@@ -1,6 +1,8 @@
 ---
-draft: true
+draft: false
 draftSectionTwo: true
+created: 2024-11-22T07:00:00.000-0400
+createdForSectionTwo: 2024-11-22T07:00:00.000-0400
 tags:
   - A1.1
   - A1.2
@@ -27,7 +29,7 @@ The exact code for how that grid is created is not important right now.
 
 The key question at hand:
 
-	How are some squares made to be white, and others blue?
+> How are some squares made to be white, and others blue?
 
 The answer is that this comes down to *selection*.
 

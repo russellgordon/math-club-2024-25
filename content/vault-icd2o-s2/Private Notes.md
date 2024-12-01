@@ -42,23 +42,23 @@ ME
 
 ## Janelle
 
-93 (reasonable!) (maybe 94..)
+93 (reasonable!) (maybe 95..)
 
 ## Khalid
 
-(no grade estimate, but I'd say 90, maybe 92 max – planning is a big learning goal, not well addressed – portfolio a bit sparse – focus on Communication as a key skill, on top of already strong technical skills)
+95
 
 ## Audrey
 
-Self-eval is a little bit incomplete. No real evidence of planning throughout mod. Max 85%; more if she can add evidence of plans in to her portfolio.
+90
 
 ## Jonas
 
-95 – sure? Maybe more like 93? 
+93
 
 ## Samson
 
-asked for 80, 65 is the best I could offer (a lot of portfolio entries incomplete, only the paired driver-navigator image analysis was really done well)
+68
 
 ## Jimin
 
@@ -78,25 +78,25 @@ No grade estimate, 90% max (no plans at all in portfolio)
 
 ## Masa
 
-90% max (no plans at all in portfolio)
+91% max (no plans at all in portfolio)
 
 ## Yahiro
 
-81 (no evidence of use of functions, but really dedicated while in class, willing to ask questions)
+85 (no evidence of use of functions, but really dedicated while in class, willing to ask questions)
 
 ## Hayden
 
-80 (no evidence of use of functions, but really dedicated while in class, willing to ask questions)
+75 (no evidence of use of functions, portfolio entries and tasks incomplete, but really dedicated while in class, willing to ask questions)
 
-## Chloe
+## Chloe ⬅️
 
-93-95 (needs to finish self-assessment though)
+93 (needs to finish self-assessment though)
 
-## Jayda
+## Jayda ⬅️
 
-95% (advanced use of functions, good planning)
+96% (advanced use of functions, good planning)
 
-## Vitalina
+## Vitalina 
 
 90% max (no plans at all in portfolio)
 

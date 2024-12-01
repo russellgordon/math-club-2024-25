@@ -15,5 +15,6 @@ tags:
 	- Mr. Jones will complete in-person briefings to review your portfolio self-assessment, after which a numeric grade will be set for achievement in this course at this point in time.
 1. Exercise: [[Computer Security with Hacktivate]]
 	- While you are not working on your shirt, and once you have finished your portfolio review, please continue working on these exercises.
+	  
 ## Things to do before our next class
 - [ ] Share evidence of what you completed today in your portfolio [on Notion](https://notion.so).
