@@ -8,6 +8,10 @@ createdForSectionTwo: 2024-12-04T07:00:00.000-0400
 tags:
 ---
 ## Agenda
+1. Portfolio: Acknowledging Feedback and Making Improvements
+	- Feedback has been provided now on the first two days of classes.
+	- Please react with a 👍🏼 or other emoji to indicate you have read each piece of feedback.
+	- As needed (this applies to most, but not all students) make improvements to your portfolio post(s) before starting today's task.
 1. Tutorial: [[Creating a Smart Folder]]
 2. Concept: [[Fills and Borders]]
 3. Exercise: [[Ramones]]
