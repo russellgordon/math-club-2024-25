@@ -21,7 +21,7 @@ Reproduce the following gig poster:
 
 - Use concepts that we have learned in recent classes.
 - Analyse the design and make a brief plan using the sheet provided.
-- Think in terms of overlappping shapes, and make use of iteration.
+- Think in terms of overlapping shapes, and make use of iteration.
 - Remember that shapes can have a fill and a border, just a fill, or just a border. 👍🏼
 
 Here is a version with a grid:
