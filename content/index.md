@@ -1,5 +1,5 @@
 ---
-title: Grade 10 Digital Tech, Section 2
+title: Math Club 2024-25
 enableToc: false
 excludeBacklinks: true
 created: 2024-09-06T00:00:00.000-0400
