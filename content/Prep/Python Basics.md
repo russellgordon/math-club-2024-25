@@ -51,7 +51,7 @@ Write a program that asks the user for their favorite color and prints:
 `"Your favorite color is <color>!"`  
 
 For example, if the user said their favourite color is green, the output would be:
-`"Your favorite color is red!"`
+`"Your favorite color is green!"`
 
 ---
 
