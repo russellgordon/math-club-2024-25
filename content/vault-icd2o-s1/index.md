@@ -1,1 +1,0 @@
-/Users/russellgordon/Dropbox/ICD2O-S2-Website/quartz/content/source-icd2o/s1-jones/index.md
