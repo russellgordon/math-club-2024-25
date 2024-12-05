@@ -2,7 +2,7 @@
 draft: true
 draftSectionTwo: false
 created: 2024-09-19T00:00:00.000-0400
-createdForSectionTwo: 2024-11-05T00:00:00.000-0400
+createdForSectionTwo: 2024-12-05T00:00:00.000-0400
 tags: 
 ---
 
@@ -16,9 +16,13 @@ tags:
 
 There are many environments within which to author and run Python code.
 
-Mr. Gordon recommends [Thonny](https://thonny.org) for beginners – you [download Thonny for macOS here](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.pkg).
+Mr. Gordon recommends that you [[Installing Thonny|install Thonny]], if don't already have an environment within which to run Python code.
 
-Mr. Gordon will demonstrate how to install and then begin using Thonny now.
+> [!TIP]
+> 
+> As you try out each example below, you'll likely want to save each section of code in a [[Installing Thonny#Saving a program|new Python code file]].
+> 
+> When you are finished these tutorials, you will have a Python code file for each example and each exercise.
 
 ## Tutorial A: Taking Input and Printing Output in Python  
 
